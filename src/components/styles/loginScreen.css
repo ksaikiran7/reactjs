@@ -1,0 +1,89 @@
+.loginScreen {
+  margin: auto;
+}
+
+.register-form-page {
+  width: 964px;
+  height: 622px;
+  margin: auto;
+  position: absolute;
+  align-items: center;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  background: #d0f0c0 0 0 no-repeat padding-box;
+  box-shadow: 0 3px 80px rgb(0 0 0 / 10%);
+  border-radius: 2px;
+}
+.d-flex {
+  display: flex;
+}
+
+.register-img {
+  width: 482px;
+  height: 622px;
+  opacity: 1;
+  background-color: #87a96b;
+}
+
+.register-form {
+  width: 314px;
+  font-size: 14px;
+  margin: 16% auto auto;
+}
+.create-form {
+  width: 314px;
+  font-size: 14px;
+  margin:  auto auto;
+}
+.create-form-container {
+  margin-top: 15px;
+}
+
+.login-title {
+  text-align: left;
+  font-size: 18px;
+  letter-spacing: 0;
+  color: #000;
+  opacity: 1;
+}
+.auth-title {
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 0;
+  color: #000;
+  opacity: 1;
+}
+.auth-form {
+    width: 314px;
+    font-size: 14px;
+    margin: 25% auto auto;
+    align-items: center;
+    text-align: center;
+}
+
+.login-label {
+  font-size: 18px;
+  letter-spacing: 0;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.form-container {
+  margin-top: 50px;
+}
+
+.font-roboto-13-24 {
+  font: normal normal normal 13px/24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.center-txt {
+  text-align: center !important;
+  justify-content: space-around;
+}
+.highlight-text {
+  cursor: pointer;
+  color: #4688f1;
+}
